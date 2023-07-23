@@ -34,7 +34,7 @@ Run the following command to perform relevant data operations such as
 --> Modifying files.
 
 ``` bash
-python3 project_code.py <SecretKey> <AccessToken>
+python3 project_code.py <AWS_SecretKey> <AWS_AccessToken>
 ```
 
 ## Contributing
